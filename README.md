@@ -2,7 +2,7 @@
 
 [Erin Metz McDonnell](https://sociology.nd.edu/people/erin-mcdonnell/), [Dustin S. Stoltz](https://www.dustinstoltz.com) & [Marshall A. Taylor](https://www.marshalltaylor.net)
 
-This repository contains all R code necessary to reproduce the analysis in "Revision, Reclassification, and Refrigerators," [published in *Socio-Economic Review*](https://academic.oup.com/ser/article-abstract/20/3/883/5920448).
+This repository contains all R code necessary to reproduce the analysis in "Multiple Market Moralities: Identifying Distinct Patterns in How Consumers Evaluate the Fairness of Price Changes," [published in *Socio-Economic Review*](https://academic.oup.com/ser/article-abstract/20/3/883/5920448).
 
 Please contact [Erin Metz McDonnell](mailto:erin.mcdonnell@nd.edu) for details on how to access the data.
 
